@@ -1,0 +1,32 @@
+[
+  {
+    "name": "test_A",
+    "function": "test_A",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_B",
+    "function": "test_B",
+    "timeout": 10,
+    "points": 1
+  },
+  {
+    "name": "test_C",
+    "function": "test_C",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_D",
+    "function": "test_D",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_E",
+    "function": "test_E",
+    "timeout": 10,
+    "points": 2
+  }
+]
